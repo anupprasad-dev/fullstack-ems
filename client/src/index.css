@@ -2,8 +2,7 @@
 @import "tailwindcss";
 
 * {
-    /* font-family: "Outfit", "Inter"; */
-    font-family: "Arial", sans-serif ;
+    font-family: "Outfit", "Inter";
 }
 
 @layer utilities {
