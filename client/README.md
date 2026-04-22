@@ -23,4 +23,4 @@ project details----
 npm create vite@latest
 npm install tailwindcss @tailwindcss/vite
 npm install react-router-dom lucide-react react-hot-toast
-coderabit website used to review code 1st upload your code in git hub then   install code rabit in vs in your repository then after  create a new branch named in development we store all code here and  after revewing all code we deploy code in main branch 
+npm install date-fns
