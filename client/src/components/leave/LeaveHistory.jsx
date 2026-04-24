@@ -12,7 +12,7 @@ const LeaveHistory = ({ leaves, isAdmin, onUpdate }) => {
             <div className='overflow-x-auto'>
                 <table className='table-modern'>
                     <thead>
-                        <hr />
+                      
                         <tr>
                             {isAdmin && <th>Employee </th>}
                             <th>Type</th>
