@@ -23,7 +23,7 @@ const Attendance = () => {
   }, [fetchData])
 
   if (loading) return <Loading />
-
+   
   const today = new Date()
   today.setHours(0, 0, 0, 0)
   const todayRecord = history.find((r) => new Date(r.date).toDateString() === today.toDateString())

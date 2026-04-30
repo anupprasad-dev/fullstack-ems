@@ -70,7 +70,7 @@ const ApplayLeaveModal = ({ open, onClose, onSuccess }) => {
                     </div>
                     {/* -----------buttons---------------- */}
                     <div className='flex gap-3 pt-2'>
-                        <button type='button' className='btn-secoundary flex-1 cursor-pointer' onClick={onClose}>
+                        <button type='button' className='btn-secondary flex-1 cursor-pointer' onClick={onClose}>
                             Cancel
                         </button>
                         <button type='submit' className='btn-primary flex flex-1 items-center justify-center gap-2 cursor-pointer' disabled={loading} onClick={onclose}>

@@ -15,6 +15,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+
+payslip check  again  and leave also doubt check again 
 3.00.06
 password re add kariba je capital letter and small leter and a special character and number rahib dia kia asabu n daba taku msg asib je ai format re password dia boli 
 last re kariba aita project sarila pare ok.

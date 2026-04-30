@@ -76,7 +76,6 @@ const LoginForm = ({ role, title, subtitle }) => {
               Sign In
             </button>
           </form>
-
         </div>
       </div>
     </div>

@@ -114,7 +114,7 @@ const EmployeeForm = ({ initialData, onSuccess, onCancel }) => {
 
             {/* buttons */}
             <div className='flex flex-col-reverse sm:flex-row justify-end gap-3 pt-2'>
-                <button type='button' className='btn-secoundary' onClick={() => (onCancel ? onCancel() : navigate(-1))}>
+                <button type='button' className='btn-secondary' onClick={() => (onCancel ? onCancel() : navigate(-1))}>
                     Cancel
                 </button>
                 <button type='submit' disabled={loading} className='btn-primary flex items-center justify-center'>

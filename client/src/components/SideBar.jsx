@@ -25,7 +25,7 @@ const SideBar = () => {
       { name: "Attendance", href: "/attendance", icon: CalendarIcon },
     { name: "Leaves", href: "/leave", icon: FileTextIcon },
     // { name: "Payslips", href: "/payslips", icon: DollarSignIcon }, original code of dollar symbol icon, but changed to ₹ for better representation of payslips in the context of an Indian payroll system
-    { name: "Payslips", href: "/payslips", icon: () => <span>₹</span> },
+    { name: "Payslips", href: "/payslips", icon: ({ className }) => <span className={className}>₹</span> },
     { name: "Settings", href: "/settings", icon: SettingsIcon },
   ]
 
