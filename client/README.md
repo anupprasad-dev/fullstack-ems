@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 payslip check  again  and leave also doubt check again 
-3.00.06
+6.32.05
 password re add kariba je capital letter and small leter and a special character and number rahib dia kia asabu n daba taku msg asib je ai format re password dia boli 
 last re kariba aita project sarila pare ok.
 project details----
@@ -26,3 +26,5 @@ npm create vite@latest
 npm install tailwindcss @tailwindcss/vite
 npm install react-router-dom lucide-react react-hot-toast
 npm install date-fns
+
+backend npm init -y  npm install express cors dotenv multer jsonwebtoken bcrypt mongoose npm install --save-dev nodemon   
